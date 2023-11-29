@@ -2,5 +2,27 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: lavender;
+}
+
+h1 {
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+    /* center text */
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+    padding: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    
+}
+
+a:hover {
+    color: purple;
 }

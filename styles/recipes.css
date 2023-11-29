@@ -12,12 +12,14 @@
     max-width: 600px;
     display: block;
     margin: 20px auto;
+    
 }
 
 .recipe-title {
     font-size: 2em;
     color: #333;
     margin-bottom: 10px;
+    
 }
 
 .recipe-ingredients,
